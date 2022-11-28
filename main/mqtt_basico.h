@@ -20,7 +20,7 @@
 #define BROKER_URI				"mqtts://mqtt.2030.ltsapis.goog"
 
 #define IOTCORE_USERNAME		"unused"
-#define IOTCORE_PROJECTID		"daiot2022"
+#define IOTCORE_PROJECTID		"daiot2022-6co"
 #define IOTCORE_DEVICE_NUMBER	"1xx" // Completar el ID que te corresponda segun tu nombre:
 
 //101	Leopoldo Zimperz
