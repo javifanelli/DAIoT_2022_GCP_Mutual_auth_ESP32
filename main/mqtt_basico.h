@@ -23,21 +23,21 @@
 #define IOTCORE_PROJECTID		"daiot2022-6co"
 #define IOTCORE_DEVICE_NUMBER	"1xx" // Completar el ID que te corresponda segun tu nombre:
 
-//101	Leopoldo Zimperz
-//102	Martin Alejandro
-//103	Milton Eduardo
-//104	Marcelo Roberto
-//105	Fabian Dario
-//106	Leandro Rene
-//107	Leandro Esteban
-//108	Raúl Emilio
-//109	Jhonatan Alexander
-//110	Lucas Eduardo
-//111	Eduardo Agustín
-//112	Roberto Oscar
-//113	Katherine
-//114	Francisco
-//115	Luis Sebastian
+// 101	Leopoldo
+// 102	Erik
+// 103	Nahuel
+// 104	Andrés
+// 105	Agustin
+// 106	Gustavo
+// 107	César
+// 108	María
+// 109	Simón
+// 110	Gonzalo
+// 111	Lucas
+// 112	Joel
+// 113	Fabián
+// 114	Torben
+// 115	Alexander
 
 
 #define IOTCORE_DEVICEID		"device-"IOTCORE_DEVICE_NUMBER
