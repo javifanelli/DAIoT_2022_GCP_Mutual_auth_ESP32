@@ -21,7 +21,7 @@
 
 #define IOTCORE_USERNAME		"unused"
 #define IOTCORE_PROJECTID		"daiot2022-6co"
-#define IOTCORE_DEVICE_NUMBER	"1xx" // Completar el ID que te corresponda segun tu nombre:
+#define IOTCORE_DEVICE_NUMBER	"107" // Completar el ID que te corresponda segun tu nombre:
 
 // 101	Leopoldo
 // 102	Erik

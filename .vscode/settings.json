@@ -7,7 +7,7 @@
     "esp_random.h": "c"
   },
   "idf.adapterTargetName": "esp32",
-  "idf.port": "/dev/ttyUSB0",
+  "idf.port": "/dev/ttyACM0",
   "idf.openOcdConfigs": [
     "interface/ftdi/esp32_devkitj_v1.cfg",
     "target/esp32.cfg"

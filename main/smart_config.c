@@ -26,8 +26,8 @@
 #define TIME_TO_WAIT_SMARTCONFIG_SECONDS    30
 
 /* SSID and PASSWORD - Configure only if SMART_CONFIG is not used */
-#define MY_SSID             "Deconet"
-#define MY_SSID_PASSWORD    "0103371183xx"
+#define MY_SSID             "JaviRomi_Wifi"
+#define MY_SSID_PASSWORD    "SanLorenzo4781"
 
 
 /* FreeRTOS event group to signal when we are connected & ready to make a request */
